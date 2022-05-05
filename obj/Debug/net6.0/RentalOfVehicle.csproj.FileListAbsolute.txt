@@ -1,0 +1,15 @@
+C:\temp\RentalOfVehicle\bin\Debug\net6.0\RentalOfVehicle.exe
+C:\temp\RentalOfVehicle\bin\Debug\net6.0\RentalOfVehicle.deps.json
+C:\temp\RentalOfVehicle\bin\Debug\net6.0\RentalOfVehicle.runtimeconfig.json
+C:\temp\RentalOfVehicle\bin\Debug\net6.0\RentalOfVehicle.dll
+C:\temp\RentalOfVehicle\bin\Debug\net6.0\RentalOfVehicle.pdb
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.csproj.AssemblyReference.cache
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.AssemblyInfoInputs.cache
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.AssemblyInfo.cs
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.csproj.CoreCompileInputs.cache
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.dll
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\refint\RentalOfVehicle.dll
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.pdb
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\RentalOfVehicle.genruntimeconfig.cache
+C:\temp\RentalOfVehicle\obj\Debug\net6.0\ref\RentalOfVehicle.dll
